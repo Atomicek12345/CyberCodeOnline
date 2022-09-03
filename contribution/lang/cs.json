@@ -3523,7 +3523,7 @@
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bolest pryč",
+ 	 	 	 	"trans": "Pain Away",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
@@ -4640,7 +4640,7 @@
  	 	},
  	 	"increaseMedical": {
  	 	 	"name": {
- 	 	 	 	"trans": "Modifikační klinika Hack & Tělo",
+ 	 	 	 	"trans": "Modifikační klinika Hack & Body",
  	 	 	 	"eng": "Hack a Body Mod Clinic"
  	 	 	},
  	 	 	"description": {
@@ -4650,7 +4650,7 @@
  	 	},
  	 	"increaseAmmo": {
  	 	 	"name": {
- 	 	 	 	"trans": "Vylepšuje výrobu munice",
+ 	 	 	 	"trans": "Vylepšit munici",
  	 	 	 	"eng": "Improve Ammunition"
  	 	 	},
  	 	 	"description": {
